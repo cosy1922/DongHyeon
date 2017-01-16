@@ -7,6 +7,8 @@ public class SortTest {
 		sort(nums,2);
 	}
 	private static void sort(int[] nums,int orderby){
-		//이부분을 직접 구현
+		//�씠遺�遺꾩쓣 吏곸젒 援ы쁽
+		//다시코딩 sort()
+
 	}
 }
